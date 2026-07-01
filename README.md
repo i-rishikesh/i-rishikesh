@@ -107,28 +107,29 @@ AI-assisted recommendation platform.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+<a href="mailto:rishikeshmishra2102@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 
 <a href="https://linkedin.com/in/rishikesh-b60145222">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:rishikeshmishra2102@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/i-rishikesh">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-</p>
+<a href="https://leetcode.com/rishikeshmisra2102">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+</a>
 
+<a href="https://www.hackerrank.com/@rishikeshmishra4">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="48"/>
+</a>
+</p>
 ---
 
 ## 🐍 Contribution Snake
